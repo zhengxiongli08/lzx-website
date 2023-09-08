@@ -1,47 +1,44 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Zhengxiong Li
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Zhengxiong
+last_name: Li
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergraduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Wuhan University
+    url: https://en.whu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include parallel computing and heterogeneous computing.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - FPGA Acceleration
+  - Parallel Computing
+  - Heterogeneous Computing
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    # - course: PhD in Artificial Intelligence
+    #   institution: Stanford University
+    #   year: 2012
+    - course: BSc in Microelectronics Science and Engineering
+      institution: Wuhan University
+      year: 2020-2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -80,5 +77,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Zhengxiong Li, an undergraduate student of Wuhan University, China. My research interests include FPGA acceleration, parallel 
+computing and heterogeneous computing. I am going to receive an honor bachelor's degree Microelectronic Science and Engineering. I am currently working as a research intern in University of Alberta, Canada. I am looking for a PhD program position. 
 {style="text-align: justify;"}
