@@ -2,7 +2,6 @@
 title: A Resource-efficient FIR Filter Design Based on an RAG Improved Algorithm
 subtitle: ""
 publication_types:
-  - "1"
   - "3"
 authors:
   - MengweiHu
