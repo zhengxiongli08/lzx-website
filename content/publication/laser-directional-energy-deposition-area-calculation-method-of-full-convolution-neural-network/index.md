@@ -33,6 +33,9 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: "2021-09-12"
+date: "2021-04-1"
+links:
+- name: Google Patent
+  url: https://patents.google.com/patent/CN112967266A/en?oq=CN112967266A
 ---
 This patent is currently pending.
