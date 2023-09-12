@@ -68,7 +68,8 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    # link: uploads/resume.pdf
+    link: https://drive.google.com/file/d/1RSfOuZf-cABB-4i7TPOS1v7mpIrmzcfv/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'zhengxio@ualberta.ca'
