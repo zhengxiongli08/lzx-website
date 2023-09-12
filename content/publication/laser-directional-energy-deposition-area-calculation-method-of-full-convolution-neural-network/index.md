@@ -4,10 +4,11 @@ title: Laser directional energy deposition area calculation method of full
 publication_types:
   - "8"
 authors:
-  - Li
-  - Z
-  - et
-  - al
+  - Hui Li
+  - Jiqian Mi
+  - Shengnan Shen
+  - Zhengxiong Li
+  - Sheng Liu
 abstract: The invention provides a method for calculating the laser directional
   energy deposition area of a full convolution neural network. The method
   comprises the steps of collecting a plurality of laser directional energy
@@ -32,6 +33,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2023-09-12T07:04:07.093Z
+date: 2021-09-12T07:04:07.093Z
 ---
-T﻿his patent is currently pending.
+This patent is currently pending.
