@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate
+role: Undergraduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -71,12 +71,12 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'zhengxio@ualberta.ca'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
 I am Zhengxiong Li, an undergraduate student of Wuhan University, China. My research interests include FPGA acceleration, parallel 
-computing and heterogeneous computing. I am going to receive an honor bachelor's degree Microelectronic Science and Engineering. I am currently working as a research intern in University of Alberta, Canada. I am looking for a PhD program position. 
+computing and heterogeneous computing. I am going to receive an honor bachelor's degree in Microelectronic Science and Engineering. I am currently working as a research intern in University of Alberta, Canada. I am looking for a PhD program position. 
 {style="text-align: justify;"}
