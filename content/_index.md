@@ -245,7 +245,7 @@ sections:
       # phone: +1 780-708-7280
       # appointment_url: 'https://calendly.com'
       address:
-        street: Bayi Road
+        street: Wuhan University
         city: Wuhan
         region: Hubei
         postcode: 430072
