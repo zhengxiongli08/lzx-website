@@ -33,6 +33,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2021-09-12T07:04:07.093Z
+date: "2021-09-12"
 ---
 This patent is currently pending.
