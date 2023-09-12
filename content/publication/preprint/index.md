@@ -3,7 +3,7 @@ title: "A Resource-efficient FIR Filter Design Based on an RAG Improved Algorith
 authors:
 - Mengwei Hu
 - Xianyang Jiang*
-- Zhengxiong Li
+- admin
 date: "2023-09-09T00:00:00Z"
 doi: ""
 
