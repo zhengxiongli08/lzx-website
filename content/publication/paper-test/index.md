@@ -24,6 +24,7 @@ abstract: In digital filter design, efficient resource utilization is a hot
 draft: false
 featured: false
 tags: []
+url_pdf: "https://drive.google.com/file/d/15_dO8bbLddk3SCK9j7M8EuqN6UL1sTE5/view?usp=sharing"
 image:
   filename: ""
   focal_point: Smart
