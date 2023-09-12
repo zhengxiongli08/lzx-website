@@ -207,7 +207,7 @@ sections:
   - block: collection
     id: pubs
     content:
-      title: Recent Publications
+      title: Recent Publications & Preprint
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
