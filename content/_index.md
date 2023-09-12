@@ -244,13 +244,13 @@ sections:
       email: zhengxio@ualberta.ca
       # phone: +1 780-708-7280
       # appointment_url: 'https://calendly.com'
-      # address:
-      #   street: 109 Street
-      #   city: Edmonton
-      #   region: Alberta
-      #   postcode: 'T5J-3M5'
-      #   country: Canada
-      #   country_code: CA
+      address:
+        street: Bayi Road
+        city: Wuhan
+        region: Hubei
+        postcode: 430072
+        country: China
+        country_code: CHN
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #   - 'Every day'
