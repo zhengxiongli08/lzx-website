@@ -33,7 +33,7 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: "2021-04-1"
+date: "2021-04-01"
 links:
 - name: Google Patent
   url: https://patents.google.com/patent/CN112967266A/en?oq=CN112967266A
