@@ -4,7 +4,12 @@ title: Laser directional energy deposition sputtering counting method of full
 publication_types:
   - "8"
 authors:
-  - test
+  - Hui Li
+  - Jiqian Mi
+  - Shengnan Shen
+  - Yaxin Hu
+  - Zhengxiong Li
+  - Sheng Liu
 abstract: "The invention provides a laser directional energy deposition
   sputtering counting method of a full convolution neural network. Collecting
   laser directional energy deposition images, finding all contours in each image
@@ -26,10 +31,13 @@ abstract: "The invention provides a laser directional energy deposition
   regulation and control of the manufacturing process."
 draft: false
 featured: false
+links:
+- name: Google Patent
+  url: https://patents.google.com/patent/CN112967267A/en?oq=CN112967267A
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2023-09-12T07:24:11.508Z
+date: "2021-04-01"
 ---
 T﻿his patent is currently pending.
