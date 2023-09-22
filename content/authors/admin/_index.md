@@ -16,7 +16,7 @@ social:
   - icon: cv
     icon_pack: ai
     # link: https://drive.google.com/file/d/1RSfOuZf-cABB-4i7TPOS1v7mpIrmzcfv/view?usp=sharing
-    link: "static/uploads/resume.pdf"
+    link: "uploads/resume.pdf"
 organizations:
   - name: Wuhan University
     url: https://en.whu.edu.cn/
