@@ -2,7 +2,7 @@
 title: A Resource-efficient FIR Filter Design Based on an RAG Improved Algorithm
 subtitle: ""
 publication_types:
-  - "3"
+  - "1"
 authors:
   - Mengwei Hu
   - Xianyang Jiang*
@@ -22,10 +22,9 @@ abstract: In digital filter design, efficient resource utilization is a hot
   consumption. The proposed circuit is faster and more stable, and suitable for
   a variety of complex application scenarios.
 draft: false
+url_pdf: https://drive.google.com/file/d/1uPw6rZVJ54bh5I5jchNWBTvJcp7wrEWx/view?usp=sharing
 featured: false
 tags: []
-url_pdf: "https://drive.google.com/file/d/1uPw6rZVJ54bh5I5jchNWBTvJcp7wrEWx/view?usp=sharing"
-url_code: "https://github.com/zhengxiongli08/Analog_ic_test"
 image:
   filename: ""
   focal_point: Smart
@@ -33,4 +32,5 @@ image:
 summary: FIR filter, pulsed fully parallel structure, improved RAG algorithm,
   resource allocation strategy
 date: 2023-09-12T06:30:32.389Z
+url_code: https://github.com/zhengxiongli08/Analog_ic_test
 ---
