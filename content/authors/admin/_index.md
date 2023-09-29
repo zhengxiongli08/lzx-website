@@ -34,6 +34,5 @@ first_name: Zhengxiong
 email: zhengxio@ualberta.ca
 ---
 
-I am Zhengxiong Li, an undergraduate student of Wuhan University, China. My research interests include FPGA acceleration, parallel 
-computing and heterogeneous computing. I am going to receive an honor bachelor's degree in Microelectronic Science and Engineering. I am currently working as a research intern in University of Alberta, Canada. I am looking for a PhD program position. 
+I am Zhengxiong Li, an undergraduate student of Wuhan University, China. My research interests include FPGA acceleration, parallel computing and heterogeneous computing. I am going to receive an honor bachelor's degree in Microelectronic Science and Engineering. I just finished my internship in University of Alberta, Canada. I am looking for a PhD program position. 
 {style="text-align: justify;"}
