@@ -22,7 +22,7 @@ abstract: In digital filter design, efficient resource utilization is a hot
   consumption. The proposed circuit is faster and more stable, and suitable for
   a variety of complex application scenarios.
 draft: false
-url_pdf: https://drive.google.com/file/d/1uPw6rZVJ54bh5I5jchNWBTvJcp7wrEWx/view?usp=sharing
+url_pdf: https://arxiv.org/ftp/arxiv/papers/2310/2310.00912.pdf
 featured: false
 tags: []
 image:
