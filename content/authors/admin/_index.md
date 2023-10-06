@@ -15,7 +15,6 @@ social:
     link: https://github.com/zhengxiongli08
   - icon: cv
     icon_pack: ai
-    # link: https://drive.google.com/file/d/1RSfOuZf-cABB-4i7TPOS1v7mpIrmzcfv/view?usp=sharing
     link: "uploads/resume.pdf"
 organizations:
   - name: Wuhan University
@@ -34,5 +33,5 @@ first_name: Zhengxiong
 email: zhengxio@ualberta.ca
 ---
 
-I am Zhengxiong Li, an undergraduate student of Wuhan University, China. My research interests include FPGA acceleration, parallel computing and heterogeneous computing. I am going to receive an honor bachelor's degree in Microelectronic Science and Engineering. I just finished my internship in University of Alberta, Canada. I am looking for a PhD program position. 
+I am Zhengxiong Li, an undergraduate student of [Wuhan University](https://en.whu.edu.cn/), China. My research interests include FPGA acceleration, parallel computing and heterogeneous computing. I am going to receive an honor bachelor's degree in Microelectronic Science and Engineering. I just finished my internship in University of Alberta, Canada, supervised by Prof. [Venkata Dinavahi](https://apps.ualberta.ca/directory/person/dinavahi), IEEE fellow. I am looking for a PhD program position. 
 {style="text-align: justify;"}
