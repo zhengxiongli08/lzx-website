@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Mengwei Hu
   - Xianyang Jiang*
-  - Zhengxiong Li
+  - **Zhengxiong Li**
 publication: International Conference on Circuits and Systems
 publication_short: ICCS
 abstract: In digital filter design, efficient resource utilization is a hot
