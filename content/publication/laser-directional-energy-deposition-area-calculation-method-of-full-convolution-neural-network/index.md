@@ -7,7 +7,7 @@ authors:
   - Hui Li
   - Jiqian Mi
   - Shengnan Shen
-  - Zhengxiong Li
+  - admin
   - Sheng Liu
 abstract: The invention provides a method for calculating the laser directional
   energy deposition area of a full convolution neural network. The method

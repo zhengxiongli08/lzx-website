@@ -8,7 +8,7 @@ authors:
   - Jiqian Mi
   - Shengnan Shen
   - Yaxin Hu
-  - Zhengxiong Li
+  - admin
   - Sheng Liu
 abstract: "The invention provides a laser directional energy deposition
   sputtering counting method of a full convolution neural network. Collecting

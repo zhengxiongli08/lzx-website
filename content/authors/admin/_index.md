@@ -25,8 +25,6 @@ education:
       institution: Wuhan University
       year: 2024
 superuser: true
-status:
-  ? icon
 last_name: Li
 highlight_name: true
 first_name: Zhengxiong
