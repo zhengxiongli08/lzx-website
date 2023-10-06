@@ -3,10 +3,11 @@ title: A Resource-efficient FIR Filter Design Based on an RAG Improved Algorithm
 subtitle: ""
 publication_types:
   - "1"
-authors:
-  - "Mengwei Hu"
-  - "Xianyang Jiang*"
-  - "**Zhengxiong Li**"
+# authors:
+#   - "Mengwei Hu"
+#   - "Xianyang Jiang*"
+#   - "Zhengxiong Li"
+authors : ["Author 1", "**Me**", "Other Author"]
 publication: International Conference on Circuits and Systems
 publication_short: ICCS
 abstract: In digital filter design, efficient resource utilization is a hot
