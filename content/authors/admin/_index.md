@@ -4,8 +4,8 @@ role: Undergraduate Student
 bio: My research interests include parallel computing and heterogeneous computing.
 interests:
   - FPGA Acceleration
-  - Parallel Computing
-  - Heterogeneous Computing
+  - Machine Learning Accelerator
+  - Heterogeneous Systems
 social:
   - icon: envelope
     icon_pack: fas
