@@ -9,9 +9,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/zhengxiongli08
-organizations:
-  - name: Wuhan University
-    url: https://en.whu.edu.cn/
 superuser: true
 last_name: Li
 highlight_name: true
