@@ -1,10 +1,6 @@
 ---
 title: Zhengxiong Li
 bio: My research interests include parallel computing and heterogeneous computing.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
 superuser: true
 last_name: Li
 highlight_name: true
