@@ -1,6 +1,5 @@
 ---
 title: Zhengxiong Li
-role: Undergraduate Student
 bio: My research interests include parallel computing and heterogeneous computing.
 social:
   - icon: envelope
